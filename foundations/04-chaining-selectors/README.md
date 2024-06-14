@@ -1,3 +1,7 @@
+Learnings
+
+Don't forget 'px'. Sometimes very small mistakes cost big. Believe myself more. And, if checking something then check carefully; if you feel the need to do something then don't do it perfunctorily.
+
 # Chaining Selectors
 
 Credits for the images in this exercise go to [Katho Mutodo](https://linktr.ee/photobykatho_) and [Andrea Piacquadio](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels).
